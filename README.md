@@ -68,7 +68,7 @@ This dashboard demonstrates how Business Intelligence tools can transform raw sa
 
 
 ```markdown
-Video_Game_Dashboard.png
+![Dashboard Preview](Video_Game_Dashboard.png)
 ```
 
 ---
